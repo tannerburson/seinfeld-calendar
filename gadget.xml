@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Module>
 	<ModulePrefs title="Seinfeld Motivation Calendar" height="250" />
+	<UserPrefs>
+		<UserPref name="color" display_name="Display Color" default_value="#FF0000"/>
+	</UserPrefs>
 	<Content type="url" href="http://tanner.naturalzesty.com/seinfeld/gadget.html"/>
 </Module>
